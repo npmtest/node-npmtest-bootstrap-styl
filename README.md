@@ -1,4 +1,7 @@
-# test coverage for  [bootstrap-styl (v5.0.8)](https://github.com/maxmx/bootstrap-stylus#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bootstrap-styl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bootstrap-styl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bootstrap-styl.svg)](https://travis-ci.org/npmtest/node-npmtest-bootstrap-styl)
+# npmtest-bootstrap-styl
+
+#### basic test coverage for  [bootstrap-styl (v5.0.8)](https://github.com/maxmx/bootstrap-stylus#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bootstrap-styl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bootstrap-styl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bootstrap-styl.svg)](https://travis-ci.org/npmtest/node-npmtest-bootstrap-styl)
+
 #### Port of the amazing Bootstrap 3.3.7 to Stylus
 
 [![NPM](https://nodei.co/npm/bootstrap-styl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bootstrap-styl)
@@ -73,7 +76,8 @@
         "url": "git+ssh://git@github.com/maxmx/bootstrap-stylus.git"
     },
     "scripts": {},
-    "version": "5.0.8"
+    "version": "5.0.8",
+    "bin": {}
 }
 ```
 
